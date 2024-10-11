@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Terminal</string>
+    <string name="timeframe_5_min">M5</string>
+    <string name="timeframe_15_min">M15</string>
+    <string name="timeframe_30_min">M30</string>
+    <string name="timeframe_1_hour">H1</string>
 </resources>
